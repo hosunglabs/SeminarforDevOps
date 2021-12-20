@@ -1,1 +1,2 @@
-# DevOps Blog
+# DevOps Blog for seminar
+g
